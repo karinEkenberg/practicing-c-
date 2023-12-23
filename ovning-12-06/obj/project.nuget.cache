@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "39SuWgeHX04Q2mDN9tv097qzzrGFayBk7StTEVI7PaLaM5SjjggGlxwJVEirKhInqD1ZV3JsyOaz3Z+PgIXAYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zirko\\Desktop\\Webbutveckling\\c# 1\\ovning-12-06\\ovning-12-06.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zirko\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\zirko\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\zirko\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
